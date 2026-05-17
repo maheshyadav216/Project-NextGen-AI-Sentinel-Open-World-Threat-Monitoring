@@ -46,7 +46,7 @@ Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/) for more i
 🔑 Arduino Resources 🔗 https://github.com/arduino-libraries/Arduino_OplaUI    
 ⚙️ Demos 🔗 https://opla.arduino.cc/   
 
-🛒 Hardware Purchase Links -
+🛒 Hardware Purchase Links -  
 NVIDIA Store - 🔗 https://developer.nvidia.com/embedded/buy-jetson?product=all&location=IN  
 Arduino Store - 🔗 https://store-usa.arduino.cc/products/arduino-opla-iot-kit  
 
