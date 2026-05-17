@@ -34,7 +34,7 @@ Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/) for more i
 
 📕 **YouTube Video Links**  
   
-▶️  NextGen AI Sentinel – Open-World Threat Monitoring - 🔗 https://youtu.be/  
+▶️  NextGen AI Sentinel – Open-World Threat Monitoring - 🔗 https://youtu.be/sMybIUDKJOM   
   
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
@@ -58,7 +58,7 @@ Arduino Store - 🔗 https://store-usa.arduino.cc/products/arduino-opla-iot-kit
 🌐 GitHub Repository - 🔗 https://github.com/maheshyadav216/Project-NextGen-AI-Sentinel-Open-World-Threat-Monitoring     
   
 🌐 Hackster Blog -  
-🔗 https://www.hackster.io/maheshyadav216/ 
+🔗 https://www.hackster.io/maheshyadav216/nexgen-ai-sentinel-open-world-threat-detection-system-8e5775  
   
 ------------------------------------------------------------------------------------------  
 
